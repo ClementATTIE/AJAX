@@ -9,12 +9,5 @@
             30
         </session-timeout>
     </session-config>
-    <welcome-file-list>
-        <welcome-file>discountEditor</welcome-file>
-    </welcome-file-list>
-    <listener>
-        <listener-class>
-                 servlet.ApplicationListener
-        </listener-class>
-    </listener>
+
 </web-app>
